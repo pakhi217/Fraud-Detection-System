@@ -349,7 +349,7 @@ Returns the list of expected feature names.
 
 ## 👤 Author
 
-**Pakhi Saxena**
+**PAKHI SAXENA**
 
 
 ## 📝 License
