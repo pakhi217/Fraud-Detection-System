@@ -332,15 +332,7 @@ Returns the list of expected feature names.
 
 ---
 
-## 🖼️ Screenshots
 
-*Add app screenshots here after running `streamlit run app/streamlit_app.py`*
-
-| Home Page | Prediction | Dashboard |
-|-----------|------------|-----------|
-| `screenshots/app_home.png` | `screenshots/app_predict.png` | `screenshots/app_dashboard.png` |
-
----
 
 ## 🔮 Future Improvements
 
@@ -357,12 +349,8 @@ Returns the list of expected feature names.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Pakhi Saxena**
 
----
 
 ## 📝 License
 
